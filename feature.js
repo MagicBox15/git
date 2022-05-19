@@ -2,6 +2,6 @@ function feature() {
   console.log('huray, it`s feature')
 }
 
-secondFunction() {
+function secondFunction() {
   console.log('another feature function')
 }
